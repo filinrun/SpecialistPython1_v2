@@ -17,8 +17,13 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
-```
+strok=input("Ввдите строку")
+id=strok[0:3]
+
+if id=="id:":
+    print(id," Да")
+else:
+    print(id," Нет")  
 
 ---
 
